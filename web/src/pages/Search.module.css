@@ -1,0 +1,26 @@
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  width: calc(33.333% - 1rem);
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  color: #000;
+}
+
+.card-title {
+  margin: 0 0 0.5rem 0;
+  color: #000;
+}
+
+.card-detail {
+  margin: 0;
+  color: #000;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}

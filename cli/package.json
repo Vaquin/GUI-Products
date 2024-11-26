@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@supabase/node-fetch": "^2.6.13",
+    "@supabase/supabase-js": "^2.46.1",
+    "dotenv": "^16.4.5",
+    "punycode": "^2.3.1",
+    "whatwg-url": "^14.0.0"
+  },
+  "overrides": {
+    "whatwg-url": "^14.0.0"
+  }
+}
